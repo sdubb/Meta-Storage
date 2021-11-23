@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://sdubb.github.io/meta-storage/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/index.html</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#top</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#services</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#about</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#pricing</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#newsletter</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#modal</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/#contact</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://sdubb.github.io/info@metacloud.io</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+	</urlset>
+
